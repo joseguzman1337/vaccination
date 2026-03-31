@@ -1,3 +1,0 @@
-VBoxTray.exe
-VBoxService.exe
-
